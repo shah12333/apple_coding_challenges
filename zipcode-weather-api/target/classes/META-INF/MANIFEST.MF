@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: mihshah4
+Build-Jdk: 18.0.1
+Implementation-Title: zipcode-weather-api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.example.weather
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/zipcode-weather-api
+Created-By: Maven Integration for Eclipse
+
